@@ -6,10 +6,10 @@ A Java-based Library Management System that allows users to manage books through
 
 Technologies
 
-Java
-    JavaFX
-    OOP (Object-Oriented Programming)
-    ArrayList Collections
+1. Java
+2. JavaFX
+3. OOP (Object-Oriented Programming)
+4. ArrayList Collections
 
 Features
 
@@ -33,15 +33,7 @@ Console Version
 7. Exit
    
 =======================================
-
-JavaFX GUI
-    --------------------------------------------------
-    | Library Management System                      |
-    --------------------------------------------------
-    | ID | Title | Author | Status                  |
-    --------------------------------------------------
-    | 1  | Java  | James  | Available               |
-    --------------------------------------------------
+   
 
 How to Run
 
