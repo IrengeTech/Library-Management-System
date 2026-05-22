@@ -1,95 +1,57 @@
+Library Management System
+
 Overview
 
-This project is a beginner-friendly but professionally structured Library Management System built using Java.
+A Java-based Library Management System that allows users to manage books through both console and JavaFX GUI interfaces. The system supports adding, removing, searching, issuing, and returning books with built-in input validation and error handling.
 
-It includes:
+Technologies
 
-Graphical User Interface (GUI)
-
-Book management
-
-Issue/return system
-
-Search functionality
-
-Error handling
-
-Input validation
-
-TableView integration
-
-Beginner-friendly architecture
-
-This version is ideal for:
-
-Java beginners
-
-School projects
-
-JavaFX learning
-
-GUI programming practice
-
-OOP demonstrations
+Java
+JavaFX
+OOP (Object-Oriented Programming)
+ArrayList Collections
 
 Features
 
-Book Management
+Add and remove books
+Search books by title or author
+Issue and return books
+Console-based interface
+JavaFX GUI interface
+Input validation and exception handling
 
-Add books
+Screenshots
 
-Remove books
+Console Version
+====== LIBRARY MANAGEMENT SYSTEM ======
+1. Add Book
+2. View Books
+3. Issue Book
+4. Return Book
+5. Search Book
+6. Remove Book
+7. Exit
+=======================================
 
-View all books
+JavaFX GUI
+--------------------------------------------------
+| Library Management System                      |
+--------------------------------------------------
+| ID | Title | Author | Status                  |
+--------------------------------------------------
+| 1  | Java  | James  | Available               |
+--------------------------------------------------
 
-Search books
+How to Run
 
-Library Operations
+Console Version
+Open the project in NetBeans or any Java IDE
+Compile LibraryManagementSystem.java
+Run the program
 
-Issue books
+JavaFX GUI Version
 
-Return books
-
-Track availability
-
-GUI Features
-
-JavaFX window
-
-TableView display
-
-Buttons
-
-Text fields
-
-Alert dialogs
-
-Responsive layout
-
-Stability
-
-Exception handling
-
-Input validation
-
-Safe numeric parsing
-
-Empty field protection
-
-Technologies Used
-
-Java
-
-Core programming
-
-JavaFX
-
-GUI framework
-
-OOP
-
-Architecture
-
-ArrayList
-
-Data storage
+Install JavaFX SDK
+Configure JavaFX libraries in your IDE
+Compile LibraryManagementSystemGUI.java
+Run the application
