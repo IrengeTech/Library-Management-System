@@ -7,9 +7,9 @@ A Java-based Library Management System that allows users to manage books through
 Technologies
 
 Java
-JavaFX
-OOP (Object-Oriented Programming)
-ArrayList Collections
+    JavaFX
+    OOP (Object-Oriented Programming)
+    ArrayList Collections
 
 Features
 
@@ -31,27 +31,28 @@ Console Version
 5. Search Book
 6. Remove Book
 7. Exit
+   
 =======================================
 
 JavaFX GUI
---------------------------------------------------
-| Library Management System                      |
---------------------------------------------------
-| ID | Title | Author | Status                  |
---------------------------------------------------
-| 1  | Java  | James  | Available               |
---------------------------------------------------
+    --------------------------------------------------
+    | Library Management System                      |
+    --------------------------------------------------
+    | ID | Title | Author | Status                  |
+    --------------------------------------------------
+    | 1  | Java  | James  | Available               |
+    --------------------------------------------------
 
 How to Run
 
-Console Version
-Open the project in NetBeans or any Java IDE
-Compile LibraryManagementSystem.java
-Run the program
+    Console Version
+    Open the project in NetBeans or any Java IDE
+    Compile LibraryManagementSystem.java
+    Run the program
 
 JavaFX GUI Version
 
-Install JavaFX SDK
-Configure JavaFX libraries in your IDE
-Compile LibraryManagementSystemGUI.java
-Run the application
+    Install JavaFX SDK
+    Configure JavaFX libraries in your IDE
+    Compile LibraryManagementSystemGUI.java
+    Run the application
