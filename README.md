@@ -13,12 +13,12 @@ ArrayList Collections
 
 Features
 
-Add and remove books
-Search books by title or author
-Issue and return books
-Console-based interface
-JavaFX GUI interface
-Input validation and exception handling
+1. Add and remove books
+2. Search books by title or author
+3. Issue and return books
+4. Console-based interface
+5. JavaFX GUI interface
+6. Input validation and exception handling
 
 Screenshots
 
